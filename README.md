@@ -1,6 +1,6 @@
 #   Projeto: Login-Helper
 
-![preview](./github/preview.png)
+![preview](./preview.png)
 
 ## Descrição:
 Projeto, formulário de login, com input de senha, mostrando ou escondendo a senha do usuário.
