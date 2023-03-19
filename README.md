@@ -6,7 +6,7 @@
 Projeto, formulário de login, com input de senha, mostrando ou escondendo a senha do usuário.
 
 
-[🔗 Clique aqui para acessar](https://marcos-franco.github.io/FormularioLogin/)
+[🔗 Clique aqui para acessar o site Login-Helper](https://marcos-franco.github.io/FormularioLogin/)
 
 
 ## 🛠 Tecnologias:
